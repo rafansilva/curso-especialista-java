@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="792dd357-805f-4702-81cf-e9df7ffe9bfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.13. Consistência no estilo de codificação com EditorConfig/editorconfig/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.13. Consistência no estilo de codificação com EditorConfig/editorconfig/editorconfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.13. Consistência no estilo de codificação com EditorConfig/editorconfig/src/CalculadoraImpostos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.13. Consistência no estilo de codificação com EditorConfig/editorconfig/src/CartelaLoteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.2. Instalando e conhecendo a IntelliJ IDEA/PrimeiroProjeto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.2. Instalando e conhecendo a IntelliJ IDEA/PrimeiroProjeto/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.2. Instalando e conhecendo a IntelliJ IDEA/PrimeiroProjeto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.2. Instalando e conhecendo a IntelliJ IDEA/PrimeiroProjeto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.2. Instalando e conhecendo a IntelliJ IDEA/PrimeiroProjeto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.2. Instalando e conhecendo a IntelliJ IDEA/PrimeiroProjeto/PrimeiroProjeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.2. Instalando e conhecendo a IntelliJ IDEA/PrimeiroProjeto/src/OlaMergulhador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.7. Usando o Debugger para depurar o seu código/Debugger/Debugger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4 - Produtividade com a IDE IntelliJ IDEA/4.7. Usando o Debugger para depurar o seu código/Debugger/src/CartelaLoteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.11. Valores padrão e inicialização de variáveis de instância/aula-oo/aula-oo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.12. Inicialização de objetos em variáveis de instância/aula-oo/aula-oo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.12. Inicialização de objetos em variáveis de instância/aula-oo/src/TesteReferecia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.20. Métodos que retornam objetos/calculadora-imc/src/IndiceMassaCorporal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.20. Métodos que retornam objetos/calculadora-imc/src/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.20. Métodos que retornam objetos/calculadora-imc/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.24. Passando objetos como argumentos de métodos/calculadora-imc/src/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.3. Criando uma classe com atributos/aula-oo/aula-oo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.3. Criando uma classe com atributos/aula-oo/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.4. Instanciando objetos/aula-oo/aula-oo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.4. Instanciando objetos/aula-oo/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.5. Acessando atributos de objetos/aula-oo/aula-oo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.8. Composição de objetos/aula-oo/aula-oo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.8. Composição de objetos/aula-oo/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.9. Atribuindo o objeto na composição/aula-oo/aula-oo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.01. Criando o primeiro programa Java/OlaMergulhador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.03. Desafio - correção de erros/OlaMergulhador09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.07. Trabalhando com variáveis/AulaVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.08. Operadores aritméticos/CalculadoraMediaIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.08. Operadores aritméticos/OperadoresAritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.10. Abreviando operadores aritméticos/AbreviandoOperadoresAritmetico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.11. Operadores de incremento e decremento/OperadorDecremento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.11. Operadores de incremento e decremento/OperadorIncremento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.12. Tipos primitivos - boolean, char, byte e short/ExemploBoolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.12. Tipos primitivos - boolean, char, byte e short/ExemploByteShort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.12. Tipos primitivos - boolean, char, byte e short/ExemploChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.13. Tipos primitivos - int e long/ExemploInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.13. Tipos primitivos - int e long/ExemploLong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.14. Tipos primitivos - float e double/ExemploFloatDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.15. Conversão de tipos primitivos/ConversaoDoubleParaFloat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.15. Conversão de tipos primitivos/ConversaoDoubleParaInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.15. Conversão de tipos primitivos/ConversaoIntParaLong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.15. Conversão de tipos primitivos/ConversaoLongParaInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.17. Promoção aritmética/PromocaoAritmetica1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.17. Promoção aritmética/PromocaoAritmetica2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/02.17. Promoção aritmética/PromocaoAritmetica3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.16. Desafio: tipos primitivos e conversão/CalculadoraPesosDasCargas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.18. Desafio: promoção aritmética/CalculadoraIdadeMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.19. Trabalhando com String/ExemploString1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.19. Trabalhando com String/ExemploString2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.20. Usando sequências de escape/SequenciasEscape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.21. Formatando a saída com printf/FormatandoComPrintf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.22. Recebendo entrada de dados/EntradaDeDados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.22. Recebendo entrada de dados/IndiceMassaCorporal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.23. Desafio: String, entrada de dados, printf, etc/FolhaDePagamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos da linguagem Java/2.9. Desafio: variáveis e operadores aritméticos/CalculadoraMediaTicket.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2DjW7HRcbPYMhsAnI6E3zurJRZh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/rafael/Repos/java/ej/5 - Mergulhando em orientação a objetos/5.25. Desafio - composição de objetos e métodos",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="792dd357-805f-4702-81cf-e9df7ffe9bfd" name="Changes" comment="" />
+      <created>1661212804884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661212804884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
