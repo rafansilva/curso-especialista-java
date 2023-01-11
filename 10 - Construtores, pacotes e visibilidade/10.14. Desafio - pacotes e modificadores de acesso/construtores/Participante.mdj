@@ -1,0 +1,343 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGFPCxkpeGbZ/E=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"model": {
+								"$ref": "AAAAAAGFPCxko+GZMKs="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGFPCxkpeGcwCs=",
+									"_parent": {
+										"$ref": "AAAAAAGFPCxkpeGbZ/E="
+									},
+									"model": {
+										"$ref": "AAAAAAGFPCxko+GZMKs="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGFPCxkpeGdw/M=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGcwCs="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGFPCxkpeGeKLM=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGcwCs="
+											},
+											"font": "Arial;13;1",
+											"left": 157,
+											"top": 319,
+											"width": 314.68505859375,
+											"height": 13,
+											"text": "br.com.algamilhas.milhas.Participante"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGFPCxkpeGf7c4=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGcwCs="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"width": 73.67724609375,
+											"height": 13,
+											"text": "(from Model)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGFPCxkpeGgISA=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGcwCs="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 152,
+									"top": 312,
+									"width": 324.68505859375,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGFPCxkpeGdw/M="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGFPCxkpeGeKLM="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGFPCxkpeGf7c4="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGFPCxkpeGgISA="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAGFPCxkpeGh4W0=",
+									"_parent": {
+										"$ref": "AAAAAAGFPCxkpeGbZ/E="
+									},
+									"model": {
+										"$ref": "AAAAAAGFPCxko+GZMKs="
+									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGFPC2oQOHGxXM=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGh4W0="
+											},
+											"model": {
+												"$ref": "AAAAAAGFPC2oJ+HDAB8="
+											},
+											"font": "Arial;13;0",
+											"left": 157,
+											"top": 342,
+											"width": 314.68505859375,
+											"height": 13,
+											"text": "+nome: String",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGFPC3SEuHN0xg=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGh4W0="
+											},
+											"model": {
+												"$ref": "AAAAAAGFPC3R+eHKceQ="
+											},
+											"font": "Arial;13;0",
+											"left": 157,
+											"top": 357,
+											"width": 314.68505859375,
+											"height": 13,
+											"text": "+saldoDePontos: int",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 152,
+									"top": 337,
+									"width": 324.68505859375,
+									"height": 38
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAGFPCxkpeGiGHA=",
+									"_parent": {
+										"$ref": "AAAAAAGFPCxkpeGbZ/E="
+									},
+									"model": {
+										"$ref": "AAAAAAGFPCxko+GZMKs="
+									},
+									"subViews": [
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGFPC5UYeHVcTo=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGiGHA="
+											},
+											"model": {
+												"$ref": "AAAAAAGFPC5UMuHSNaM="
+											},
+											"font": "Arial;13;0",
+											"left": 157,
+											"top": 380,
+											"width": 314.68505859375,
+											"height": 13,
+											"text": "+br.com.algamilhas.milhas.Participante(nome: String)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGFPC7DpeHfIfs=",
+											"_parent": {
+												"$ref": "AAAAAAGFPCxkpeGiGHA="
+											},
+											"model": {
+												"$ref": "AAAAAAGFPC7Dh+HcOZI="
+											},
+											"font": "Arial;13;0",
+											"left": 157,
+											"top": 395,
+											"width": 314.68505859375,
+											"height": 13,
+											"text": "+br.com.algamilhas.milhas.Participante(nome: String, saldoDePontosInicial: int)",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 152,
+									"top": 375,
+									"width": 324.68505859375,
+									"height": 38
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAGFPCxkpeGjp/o=",
+									"_parent": {
+										"$ref": "AAAAAAGFPCxkpeGbZ/E="
+									},
+									"model": {
+										"$ref": "AAAAAAGFPCxko+GZMKs="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAGFPCxkpuGk02U=",
+									"_parent": {
+										"$ref": "AAAAAAGFPCxkpeGbZ/E="
+									},
+									"model": {
+										"$ref": "AAAAAAGFPCxko+GZMKs="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 152,
+							"top": 312,
+							"width": 324.68505859375,
+							"height": 101,
+							"nameCompartment": {
+								"$ref": "AAAAAAGFPCxkpeGcwCs="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAGFPCxkpeGh4W0="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAGFPCxkpeGiGHA="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAGFPCxkpeGjp/o="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAGFPCxkpuGk02U="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGFPCxko+GZMKs=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "br.com.algamilhas.milhas.Participante",
+					"attributes": [
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGFPC2oJ+HDAB8=",
+							"_parent": {
+								"$ref": "AAAAAAGFPCxko+GZMKs="
+							},
+							"name": "nome",
+							"type": "String"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGFPC3R+eHKceQ=",
+							"_parent": {
+								"$ref": "AAAAAAGFPCxko+GZMKs="
+							},
+							"name": "saldoDePontos",
+							"type": "int"
+						}
+					],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGFPC5UMuHSNaM=",
+							"_parent": {
+								"$ref": "AAAAAAGFPCxko+GZMKs="
+							},
+							"name": "br.com.algamilhas.milhas.Participante",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGFPC67EuHarOg=",
+									"_parent": {
+										"$ref": "AAAAAAGFPC5UMuHSNaM="
+									},
+									"name": "nome",
+									"type": "String"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGFPC7Dh+HcOZI=",
+							"_parent": {
+								"$ref": "AAAAAAGFPCxko+GZMKs="
+							},
+							"name": "br.com.algamilhas.milhas.Participante",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGFPC9LXuHjaKM=",
+									"_parent": {
+										"$ref": "AAAAAAGFPC7Dh+HcOZI="
+									},
+									"name": "nome",
+									"type": "String"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGFPC9LXuHkUFA=",
+									"_parent": {
+										"$ref": "AAAAAAGFPC7Dh+HcOZI="
+									},
+									"name": "saldoDePontosInicial",
+									"type": "int"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
