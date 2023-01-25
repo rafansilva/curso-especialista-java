@@ -1,0 +1,16 @@
+import com.algaworks.banco.Conta;
+import com.algaworks.banco.ContaEspecial;
+import com.algaworks.banco.Titular;
+
+public class Principal {
+
+    public static void main(String[] args) {
+        Titular titular = new Titular("Rafael Silva", "1234567899");
+        Conta conta1 = new Conta(titular, 1234, 999999);
+        Conta conta2 = new Conta(titular, 1234, 999999);
+        ContaEspecial conta3 = new ContaEspecial(titular, 1234, 999999, 90);
+
+        System.out.println(conta1.equals(conta2));
+
+    }
+}
