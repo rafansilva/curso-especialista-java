@@ -1,0 +1,61 @@
+package com.algaworks.banco;
+
+public final class ContaEspecial extends ContaInvestimento{
+
+    private double tarifaMensal;
+    private double limiteChequeEspecial;
+
+    public ContaEspecial(Titular titular, int agencia, int numero, double tarifaMensal) {
+        super(titular, agencia, numero);
+        this.tarifaMensal = tarifaMensal;
+    }
+
+    public double getTarifaMensal() {
+        return tarifaMensal;
+    }
+
+    public void setTarifaMensal(double tarifaMensal) {
+        this.tarifaMensal = tarifaMensal;
+    }
+
+    public double getLimiteChequeEspecial() {
+        return limiteChequeEspecial;
+    }
+
+    public void setLimiteChequeEspecial(double limiteChequeEspecial) {
+        this.limiteChequeEspecial = limiteChequeEspecial;
+    }
+
+    public final double getSaldoDisponivel() {
+        return getSaldo() + getLimiteChequeEspecial();
+    }
+
+    @Override
+    protected final void validarSaldoParaSaque(double valorSaque) {
+        if (getSaldoDisponivel() < valorSaque) {
+            throw new RuntimeException("Saldo insulficiente para saque");
+        }
+    }
+    
+    public void debitarTarifaMensal() {
+        sacar(getTarifaMensal());
+    }
+
+    @Override
+    public final void imprimirDemonstrativo() {
+        super.imprimirDemonstrativo();
+        System.out.printf("Saldo Disponível: %.2f%n", getSaldoDisponivel());
+    }
+
+    @Override
+    public String toString() {
+        return "Conta{" +
+                "titular=" + (getTitular() != null ? getTitular().getNome() : null)  +
+                ", agencia=" + getAgencia() +
+                ", numero=" + getNumero() +
+                ", valorTotalRendimentos=" + getValorTotalRendimentos() +
+                ", tarifaMensal=" + getTarifaMensal() +
+                ", limiteChequeEspecial=" + getLimiteChequeEspecial() +
+                '}';
+    }
+}
